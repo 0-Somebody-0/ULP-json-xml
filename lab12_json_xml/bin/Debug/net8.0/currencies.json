@@ -1,0 +1,12 @@
+[
+  {
+    "Type": "Dollar",
+    "BigPart": 50,
+    "SmallPart": 75
+  },
+  {
+    "Type": "Euro",
+    "BigPart": 30,
+    "SmallPart": 20
+  }
+]

@@ -1,0 +1,10 @@
+<Currencies>
+  <Currency Type="Dollar">
+    <BigPart>50</BigPart>
+    <SmallPart>75</SmallPart>
+  </Currency>
+  <Currency Type="Euro">
+    <BigPart>30</BigPart>
+    <SmallPart>20</SmallPart>
+  </Currency>
+</Currencies>
